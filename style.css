@@ -1,12 +1,28 @@
 header { text-align:  center; }
-header u { text-decoration-color: #ffffff00; border-bottom: 2pt solid #039925; }
+header u {
+	border-bottom: 2pt solid #039925;
+	text-decoration-color: #ffffff00;
+}
 section { margin: 10pt; }
-aside { text-align: right; font-style: italic; font-weight: bold; }
-h2 { margin-top: 0pt }
-.pg { font-size: 100pt; float: left; }
+aside {
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+}
+h2 { margin-top: 0; }
+.pg {
+	float: left;
+	font-size: 100pt;
+}
 .title { font-size: 55pt; }
 .links { margin-top: 10pt; }
 .links a { margin: 10pt; }
-#intro { color: #00cad1; font-size: 16pt; }
-#text { column-count: 4; font-size: 14pt; }
+#intro {
+	color: #00cad1;
+	font-size: 16pt;
+}
+#text {
+	column-count: 4;
+	font-size: 14pt;
+}
 img { width: 100%; }
