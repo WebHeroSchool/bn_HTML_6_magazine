@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body { font-family: 'Quicksand', sans-serif; }
+header { text-align:  center; }
+header u {
+	border-bottom: 2pt solid #039925;
+	text-decoration-color: #ffffff00;
+}
+section { margin: 10pt; }
+aside {
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+}
+h2 { margin-top: 0; }
+.pg {
+	float: left;
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 100pt;
+}
+.title { font-size: 55pt; font-family: 'Maven Pro', sans-serif;}
+.links { margin-top: 10pt; }
+.links a { margin: 10pt; }
+#intro {
+	color: #00cad1;
+	font-size: 16pt;
+}
+#text {
+	column-count: 4;
+	font-size: 14pt;
+}
+img {
+	float: right;
+	width: 100%;
+}
